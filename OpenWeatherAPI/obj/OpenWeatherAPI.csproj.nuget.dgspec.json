@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Йонас\\Desktop\\WeatherService22-master\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {}
+    "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Йонас\\Desktop\\WeatherService22-master\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {
+    "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Йонас\\Desktop\\WeatherService22-master\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
         "projectName": "OpenWeatherAPI",
-        "projectPath": "C:\\Users\\Йонас\\Desktop\\WeatherService22-master\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+        "projectPath": "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
         "packagesPath": "C:\\Users\\Йонас\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Йонас\\Desktop\\WeatherService22-master\\OpenWeatherAPI\\obj\\",
+        "outputPath": "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
